@@ -1,6 +1,2 @@
-# GO项目
+# vuepress Blog
 
-### 热启动项目
-```sh
- rizla main.go
-```

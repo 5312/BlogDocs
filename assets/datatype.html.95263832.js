@@ -1,0 +1,1 @@
+const t={key:"v-8246712c",path:"/Golang/datatype/datatype.html",title:"\u6570\u636E\u7C7B\u578B",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:165776369e4,contributors:[{name:"5312",email:"1765080897@qq.com",commits:1}]},filePathRelative:"Golang/datatype/datatype.md"};export{t as data};

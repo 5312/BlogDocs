@@ -1,0 +1,1 @@
+const e={key:"v-44ebbbd4",path:"/JS/ES6/",title:"ES6",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:165776369e4,contributors:[{name:"5312",email:"1765080897@qq.com",commits:1}]},filePathRelative:"JS/ES6/index.md"};export{e as data};

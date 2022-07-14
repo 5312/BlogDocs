@@ -1,0 +1,1 @@
+const e={key:"v-645f86e4",path:"/JS/PC/rem.html",title:"\u5927\u5C4F\u81EA\u9002\u5E94",lang:"zh-CN",frontmatter:{sidebar:!1},excerpt:"",headers:[],git:{updatedTime:165776369e4,contributors:[{name:"5312",email:"1765080897@qq.com",commits:1}]},filePathRelative:"JS/PC/rem.md"};export{e as data};

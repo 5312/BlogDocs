@@ -8,7 +8,7 @@ const {
     docsearchPlugin
 } = require('@vuepress/plugin-docsearch')
 
-let base = '/BlogDocs/'
+let base = ''
 
 if (process.env.BASE) {
     base = process.env.BASE

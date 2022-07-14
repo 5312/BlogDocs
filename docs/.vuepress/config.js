@@ -13,6 +13,8 @@ let base = '/BlogDocs/'
 if (process.env.BASE) {
     base = process.env.BASE
 }
+
+
 module.exports = {
     // 站点配置
     lang: 'zh-CN',

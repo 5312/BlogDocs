@@ -1,21 +1,34 @@
 {
-    "name": "vuepress",
-    "version": "1.0.0",
-    "description": "blog",
-    "main": "index.js",
-    "dependencies": {
-        "vuepress": "^2.0.0-beta.46"
-    },
-    "devDependencies": {
-        "@vuepress/bundler-vite": "^2.0.0-beta.46",
-        "@vuepress/plugin-docsearch": "^2.0.0-beta.45",
-        "@vuepress/plugin-search": "^2.0.0-beta.45"
-    },
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "docs:dev": "vuepress dev docs",
-        "docs:build": "vuepress build docs"
-    },
-    "author": "",
-    "license": "ISC"
+  "name": "vuepress",
+  "version": "1.0.0",
+  "description": "blog",
+  "type": "module",
+  "dependencies": {
+    "vuepress": "^2.0.0-beta.46"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^3.3.0",
+    "@vuepress/bundler-vite": "^2.0.0-beta.46",
+    "@vuepress/plugin-docsearch": "^2.0.0-beta.45",
+    "@vuepress/plugin-register-components": "^1.9.7",
+    "@vuepress/plugin-search": "^2.0.0-beta.45"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5312/BlogDocs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/5312/BlogDocs/issues"
+  },
+  "homepage": "https://github.com/5312/BlogDocs#readme"
 }

@@ -1,7 +1,9 @@
 <template>
-  <div><h1>这是一个测试自定义组件的demo</h1></div>
+  <div>233</div>
 </template>
 <script>
-export default {};
+import { defineComponent } from "vue";
+export default defineComponent({
+  name: "demo",
+});
 </script>
-<style></style>

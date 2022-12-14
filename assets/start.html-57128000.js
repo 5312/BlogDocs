@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-621628ba","path":"/guide/start.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"开始js的奇妙之旅","slug":"开始js的奇妙之旅","link":"#开始js的奇妙之旅","children":[]}],"git":{"updatedTime":1657763690000,"contributors":[{"name":"5312","email":"1765080897@qq.com","commits":1}]},"filePathRelative":"guide/start.md"}');export{t as data};

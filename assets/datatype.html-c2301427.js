@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-8246712c","path":"/Golang/datatype/datatype.html","title":"数据类型","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1657763690000,"contributors":[{"name":"5312","email":"1765080897@qq.com","commits":1}]},"filePathRelative":"Golang/datatype/datatype.md"}');export{t as data};

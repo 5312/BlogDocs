@@ -1,0 +1,1 @@
+import{_ as e,p as o,q as t,R as s}from"./framework-2c66b6ab.js";const a={},c=s("h1",null,"这是一个测试自定义组件的demo",-1),n=[c];function r(_,d,l,p,i,f){return o(),t("div",null,n)}const m=e(a,[["render",r],["__file","FooBar.vue"]]);export{m as default};

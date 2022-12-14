@@ -1,0 +1,1 @@
+import{_ as e,c as o,p as n,q as t}from"./framework-2c66b6ab.js";const c=o({name:"demo"});function s(a,r,_,p,m,f){return n(),t("div",null,"233")}const i=e(c,[["render",s],["__file","Demo.vue"]]);export{i as default};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-645f86e4","path":"/JS/PC/rem.html","title":"大屏自适应","lang":"zh-CN","frontmatter":{"sidebar":false},"headers":[],"git":{"updatedTime":1670928246000,"contributors":[{"name":"5312","email":"1765080897@qq.com","commits":2}]},"filePathRelative":"JS/PC/rem.md"}');export{e as data};

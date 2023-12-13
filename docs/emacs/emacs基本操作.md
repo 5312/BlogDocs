@@ -24,7 +24,8 @@ Emacs的三种基本对象是:帧(frame)、窗口(window)、缓冲区(buffer)。
 	撤销 C-x u / q 退出
 
 # 跳转
-
+  * [ ]
+  
 	M + m j l '行号'
 	M + m j j 'str 单词'
 
